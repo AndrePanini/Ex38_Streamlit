@@ -61,4 +61,4 @@ O arquivo CSV deve conter os seguintes campos (dependendo do seu pré-processame
 - `qt_pessoas_residencia`
 - `renda`
 
-<!-- Uploading "streamlit-app_pycaret-2025-05-10-14-05-55 (1).webm"... -->
+[<!-- Uploading "streamlit-app_pycaret-2025-05-10-14-05-55 (1).webm"... -->](https://github.com/user-attachments/assets/85503e8a-1901-4a2d-bb28-07524f8b10a6)
