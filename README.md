@@ -61,10 +61,4 @@ O arquivo CSV deve conter os seguintes campos (dependendo do seu pré-processame
 - `qt_pessoas_residencia`
 - `renda`
 
-
-
-**Descrição do vídeo:** O vídeo fornece uma visão geral do processo de treinamento do modelo e uma demonstração prática da aplicação Streamlit para escorar novos dados.
-
-## Licença
-
-Este projeto é fornecido sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+https://github.com/AndrePanini/Previs-o_Renda-Projeto_M16-/assets/138242374/9e4ad774-cdf5-4291-b450-8dc9232e43ab
